@@ -1,0 +1,10 @@
+Running batch analysis
+
+Performing Diagnostics
+Start study: Static 1 Monday, September 21, 2015 11:08:59 PM
+End study: Static 1 Monday, September 21, 2015 11:08:59 PM
+
+Performing Analysis
+Start study: Static 1 Monday, September 21, 2015 11:08:59 PM
+Analysis succeeded. 
+End study: Static 1 Monday, September 21, 2015 11:09:09 PM
